@@ -22,5 +22,3 @@
  
  
 </div>
-  
-![testa_um_negocio-removebg-preview](https://user-images.githubusercontent.com/74980842/153731281-7731d095-dff1-4f33-8d24-1d72fc3678c1.png)
